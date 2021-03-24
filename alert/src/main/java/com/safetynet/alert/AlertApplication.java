@@ -19,3 +19,4 @@ public class AlertApplication {
         return String.format("Alert %s!", name);
     }
 }
+
