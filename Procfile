@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.safetynet.alert.AlertApplication
+web: java -jar target/alert-0.0.1-SNAPSHOT.jar
